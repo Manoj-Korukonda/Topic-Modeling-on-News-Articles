@@ -1,0 +1,9 @@
+1. Check which topic our test document belongs to using the LDA Bag of Words model.
+
+which gives highest probability of 48% which it belongs to one topic
+
+2. Check which topic our test document belongs to using the LDA TF-IDF model.
+
+which gives highest probability of 57% which it belongs to one topic
+
+3. On unseen document it gives probability of 42% which belongs to particular document
