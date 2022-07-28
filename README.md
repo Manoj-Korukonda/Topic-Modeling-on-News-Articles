@@ -30,11 +30,6 @@ The dataset contains a set of news articles for each major segment consisting of
   </ul>
 
 
-<h4>Source Directories:</h4>
-<ul>
-  <li><b>Dataset</b> - Includes dataset for topic modeling of news aricles in csv format.</li>
-  
-</ul>
 
 
 </ul>
